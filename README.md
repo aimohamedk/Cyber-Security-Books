@@ -20,12 +20,14 @@ All resources are intended for **learning, research, and defensive security unde
 Learning Roadmap
 
 Cybersecurity-Books/
-├── Beginner/
+├── For Beginners/
 │   ├── Networking-Fundamentals/
 │   ├── Cybersecurity-Basics/
 │   ├── Linux-Basics/
 │   └── Security-Awareness/
 │
+
+
 
 ├── Intermediate/
 │   ├── Network-Security/
@@ -42,6 +44,8 @@ Cybersecurity-Books/
 │   ├── Threat-Hunting/
 │   └── IoT-Cloud-Security/
 │
+
+
 
 ├── References/
 │   ├── Standards-Frameworks/
