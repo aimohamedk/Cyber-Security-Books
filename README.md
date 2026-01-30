@@ -21,10 +21,10 @@ Learning Roadmap
 
 Cybersecurity-Books/
 ├── For Beginners/
-│   ├── Networking-Fundamentals/
-│   ├── Cybersecurity-Basics/
-│   ├── Linux-Basics/
-│   └── Security-Awareness/
+Networking-Fundamentals,
+Cybersecurity-Basics,
+Linux-Basics,
+│   Security-Awareness,
 │
 
 
