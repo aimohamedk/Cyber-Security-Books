@@ -6,7 +6,7 @@ This repository focuses on building strong fundamentals, practical understanding
 
  🔎 Repository Purpose
 
-Cybersecurity is no longer optional. With the rise of cloud computing, IoT, mobile devices, and global connectivity, understanding how to **protect systems, networks, and data is a critical skill.
+Cybersecurity is no longer optional. With the rise of cloud computing, IoT, mobile devices, and global connectivity, understanding how to protect systems, networks, and data is a critical skill.
 
 This repository exists to:
 
