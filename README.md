@@ -17,15 +17,12 @@ This repository exists to:
 
 All resources are intended for **learning, research, and defensive security understanding
 
-Learning Roadmap
+Learning Roadmap: 
 
-Cybersecurity-Books/
-├── For Beginners/
-Networking-Fundamentals,
-Cybersecurity-Basics,
-Linux-Basics,
-│   Security-Awareness,
-│
+For Beginners/
+Networking-Fundamentals |
+Cybersecurity-Basics |
+Linux-Basics │ Security-Awareness,
 
 
 
