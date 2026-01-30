@@ -1,32 +1,119 @@
-# Cyber-Security-Books-research
+📚 Cybersecurity Books & Learning Resources:
 
-Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, 
-theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.[1]
+A curated, educational repository of cybersecurity books and reference materials designed for students, self-taught learners, educators, and early-career security professionals.
 
-The field is becoming increasingly significant due to the increased reliance on computer systems,
-the Internet[2] and wireless network standards such as Bluetooth and Wi-Fi, and due to the growth of "smart" devices, 
-including smartphones, televisions, and the various devices that constitute the "Internet of things".
-Owing to its complexity, both in terms of politics and technology, 
-cybersecurity is also one of the major challenges in the contemporary world.
+This repository focuses on building strong fundamentals, practical understanding, and ethical awareness across multiple cybersecurity domains — from networking and risk management to incident response and emerging threats.
+
+ 🔎 Repository Purpose
+
+Cybersecurity is no longer optional. With the rise of cloud computing, IoT, mobile devices, and global connectivity, understanding how to **protect systems, networks, and data is a critical skill.
+
+This repository exists to:
+
+* Support students and self-learners** entering cybersecurity
+* Assist educators with structured reference materials
+* Help SOC / NOC / junior security professionals strengthen core knowledge
+* Provide a central, organized learning library for ethical security education
+
+All resources are intended for **learning, research, and defensive security understanding
+
+Learning Roadmap
+
+Cybersecurity-Books/
+├── Beginner/
+│   ├── Networking-Fundamentals/
+│   ├── Cybersecurity-Basics/
+│   ├── Linux-Basics/
+│   └── Security-Awareness/
+│
+├── Intermediate/
+│   ├── Network-Security/
+│   ├── Web-Application-Security/
+│   ├── Malware-Fundamentals/
+│   ├── Incident-Response/
+│   └── Risk-Management/
+│
+├── Advanced/
+│   ├── Penetration-Testing/
+│   ├── Digital-Forensics/
+│   ├── Red-Team-Blue-Team/
+│   ├── Threat-Hunting/
+│   └── IoT-Cloud-Security/
+│
+├── References/
+│   ├── Standards-Frameworks/
+│   ├── Whitepapers/
+│   └── Cheatsheets/
+│
+└── DISCLAIMER.md
+
+This structure allows learners to progress gradually while giving educators and professionals quick access to focused materials.
+
+🟢 Beginner Level
+
+Goal: Build strong foundations
+
+* Basic networking concepts (TCP/IP, ports, protocols)
+* Introduction to cybersecurity & threat landscape
+* Linux and command-line basics
+* Passwords, authentication, and user awareness
+
+Ideal for:Students, beginners, non-technical learners
+
+🟡 Intermediate Level
+
+Goal:Understand real-world security operations
+
+* Network security & firewalls
+* Web application vulnerabilities (OWASP Top 10)
+* Malware fundamentals
+* Incident detection and response
+* Risk assessment and secure configuration
+
+Ideal for: ICT students, junior SOC/NOC roles, self-taught developers
 
 
-Purpose of the cyber security principles: 
-Govern: Identifying and managing security risks.
-Protect: Implementing security controls to reduce security risks.
-Detect: Detecting and understanding cyber security events.
-Respond: Responding to and recovering from cyber security incidents.
+🔴 Advanced Level
 
-The principles or the steps to cybersecurity are for enterprises and businesses that are looking to protect themselves from the attacks in cyberspace. 
-It’s a 10 steps guidance which was originally produced by NCSC (National Cyber Security Center). So, any business or anyone who is looking at how to effectively achieve cybersecurity should consider these 10 steps guide developed by NCSC,
+Goal: Apply offensive and defensive security skills
 
-Principles of Cyber Security:
-1. Risk Management Regime
-2.Secure Configuration
-3. Network Security
-4.Managing User Privileges
-5. User Education and Awareness
-6.Incident Management
-7. Malware Prevention
-8.Monitoring
-9.Removable Media Controls
-10.Home and Mobile Networking
+* Penetration testing methodologies
+* Digital forensics & evidence handling
+* Red team vs blue team concepts
+* Threat hunting & log analysis
+* IoT and cloud security challenges
+
+Ideal for: Advanced learners, security engineers, ethical hackers
+
+ 🔐 Core Cybersecurity Principles Covered
+
+Many resources align with widely accepted security frameworks:
+
+* Identify, Protect, Detect, Respond, Recover
+* Risk management and secure configuration
+* Monitoring, logging, and incident handling
+* User privilege management and awareness
+* 
+⚠️ Legal & Ethical Disclaimer
+
+All materials in this repository are provided strictly for educational and ethical purposes.
+
+* Do NOT use any knowledge gained here for illegal activities
+* Practice only in **authorized labs, test environments, or systems you own
+* The repository owner is not responsible for misuse of the materials
+
+Cybersecurity knowledge should be used to defend systems, improve security posture, and educate others .
+
+ I Curated cybersecurity books & learning resources for students, educators, and SOC/NOC professionals. Covers network security, web security, incident response, malware, IoT, and ethical hacking fundamentals.
+
+🤝 Contributions
+
+Contributions are welcome.
+
+* Add new learning resources
+* Improve folder organization
+* Suggest better learning paths
+
+Please ensure all contributions remain legal, ethical, and educational .
+
+📌Maintained for learning, growth, and responsible cybersecurity education.
