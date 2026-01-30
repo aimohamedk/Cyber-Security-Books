@@ -19,38 +19,18 @@ All resources are intended for **learning, research, and defensive security unde
 
 Learning Roadmap: 
 
-For Beginners/
-Networking-Fundamentals |
-Cybersecurity-Basics |
-Linux-Basics │ Security-Awareness,
+For Beginners -->
+Networking-Fundamentals | Cybersecurity-Basics | Linux-Basics │ Security-Awareness.
 
+For Intermediate Level --> 
+Network-Security │ Web-Application-Security │ Malware-Fundamentals │ Incident-Response | Risk-Management.
 
+Advanced Level --> Penetration-Testing │ Digital-Forensics | Red-Team-Blue-Team | Threat-Hunting | IoT-Cloud-Security.
 
-├── Intermediate/
-│   ├── Network-Security/
-│   ├── Web-Application-Security/
-│   ├── Malware-Fundamentals/
-│   ├── Incident-Response/
-│   └── Risk-Management/
-│
+References:
+Standards-Frameworks | Whitepapers | Cheatsheets/
 
-├── Advanced/
-│   ├── Penetration-Testing/
-│   ├── Digital-Forensics/
-│   ├── Red-Team-Blue-Team/
-│   ├── Threat-Hunting/
-│   └── IoT-Cloud-Security/
-│
-
-
-
-├── References/
-│   ├── Standards-Frameworks/
-│   ├── Whitepapers/
-│   └── Cheatsheets/
-│
-
-└── DISCLAIMER.md
+DISCLAIMER.md:
 
 This structure allows learners to progress gradually while giving educators and professionals quick access to focused materials.
 
