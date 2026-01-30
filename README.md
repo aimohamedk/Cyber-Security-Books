@@ -1,12 +1,12 @@
 📚 Cybersecurity Books & Learning Resources:
 
-A curated, educational repository of cybersecurity books and reference materials designed for students, self-taught learners, educators, and early-career security professionals.
+I've curated, educational repository of cybersecurity books and reference materials designed for students, self-taught learners, educators, and early-career security professionals.
 
 This repository focuses on building strong fundamentals, practical understanding, and ethical awareness across multiple cybersecurity domains — from networking and risk management to incident response and emerging threats.
 
  🔎 Repository Purpose
 
-Cybersecurity is no longer optional. With the rise of cloud computing, IoT, mobile devices, and global connectivity, understanding how to protect systems, networks, and data is a critical skill.
+Cybersecurity is no longer optional. With the rise of cloud computing, IoT, mobile devices, and global connectivity, understanding how to protect systems, networks, and data has become a critical skill for individuals and organizations.
 
 This repository exists to:
 
@@ -26,6 +26,7 @@ Cybersecurity-Books/
 │   ├── Linux-Basics/
 │   └── Security-Awareness/
 │
+
 ├── Intermediate/
 │   ├── Network-Security/
 │   ├── Web-Application-Security/
@@ -33,6 +34,7 @@ Cybersecurity-Books/
 │   ├── Incident-Response/
 │   └── Risk-Management/
 │
+
 ├── Advanced/
 │   ├── Penetration-Testing/
 │   ├── Digital-Forensics/
@@ -40,11 +42,13 @@ Cybersecurity-Books/
 │   ├── Threat-Hunting/
 │   └── IoT-Cloud-Security/
 │
+
 ├── References/
 │   ├── Standards-Frameworks/
 │   ├── Whitepapers/
 │   └── Cheatsheets/
 │
+
 └── DISCLAIMER.md
 
 This structure allows learners to progress gradually while giving educators and professionals quick access to focused materials.
